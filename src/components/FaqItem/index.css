@@ -1,0 +1,22 @@
+.question-details {
+  font-size: '10px';
+  list-style-type: none;
+}
+
+.question {
+  color: #94a3b7;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.answer {
+  color: #007bff;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+}
