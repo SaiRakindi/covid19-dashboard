@@ -4,7 +4,7 @@
   align-items: center;
   background-color: #1e1e30;
   height: 80px;
-  padding: 30px;
+  padding: 20px;
   width: 100%;
 }
 
@@ -17,6 +17,7 @@
   text-decoration: none;
   cursor: pointer;
   outline: none;
+  font-style: normal;
 }
 
 .header-items {

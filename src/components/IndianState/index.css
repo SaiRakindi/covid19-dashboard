@@ -1,0 +1,65 @@
+.states-container {
+  width: 350px;
+}
+
+.state-list {
+  list-style-type: none;
+  width: 1146px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.table-column {
+  width: 250px;
+}
+
+.state-name-link {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.state-name-text {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #f1f5f9;
+  padding: 0px 32px;
+  width: 280px;
+}
+
+.confirmed-case {
+  color: #ff073a;
+}
+
+.active-case {
+  color: #007bff;
+  padding-left: 15px;
+}
+
+.recovered-case {
+  color: #28a745;
+  padding-left: 18px;
+}
+
+.deceased-case {
+  color: #6c757d;
+  padding-left: 40px;
+}
+
+.population {
+  color: #94a3b8;
+  padding-left: 50px;
+}
+
+.case {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  width: 150px;
+}
